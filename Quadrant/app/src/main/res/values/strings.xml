@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrant</string>
+    <string name="displays_text_and_nfollows_the_nrecommended_nmaterial_design_nguidelines">Displays text and \nfollows the \nrecommended \nMaterial Design \nguidelines.</string>
+    <string name="text_composable">Text composable</string>
+    <string name="image_composable">Image composable</string>
+    <string name="creates_a_ncomposable_that_lays_nout_and_draws_a_ngiven_painter_class_nobject">Creates a \ncomposable that lays \nout and draws a \ngiven Painter class \nobject.</string>
+    <string name="a_layout_composable_nthat_places_its_nchildren_in_a_nhorizontal_sequence">A layout composable \nthat places its \nchildren in a \nhorizontal sequence.</string>
+    <string name="column_composable">Column composable</string>
+    <string name="a_layout_composable_nthat_places_its_nchildren_in_a_vertical_nsequence">A layout composable \nthat places its \nchildren in a vertical \nsequence.</string>
+    <string name="row_composable">Row composable</string>
+</resources>
